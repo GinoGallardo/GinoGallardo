@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="">
   <h1>Hola 👋, soy Gino Gallardo</h1>
-  <h3>Soy estudiante de Desarrollo FullStack, He terminado Desarrollo Web, JavaScript, React Js, actualmente estoy curazando Backend en CoderHouse.
+  <h3>Soy estudiante de Desarrollo FullStack, He terminado Desarrollo Web, JavaScript, React Js, actualmente estoy curzando Backend en CoderHouse.
     Estoy buscando dedicarme 100% al Desarrollo Web.
   </h3>
 </div>
