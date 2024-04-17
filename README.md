@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="">
   <h1>Hola 👋, soy Gino Gallardo</h1>
-  <h3>Soy estudiante de Desarrollo FullStack, He terminado Desarrollo Web, JavaScript, React Js, actualmente estoy curzando Backend en CoderHouse.
-    Estoy buscando dedicarme 100% al Desarrollo Web.
+  <h3>He culminado el curso de Desarrollo Web, JavaScript, React Js.
+    Estoy buscando mi primer empleó, y así dedicarme 100% al Desarrollo Web.
   </h3>
 </div>
 
@@ -18,8 +18,6 @@
 
 ---
 
-- 🔭 Actualmente estoy trabajando en esta web https://ginogallardo.github.io/web_iglesia_urquiza/ 
-- 🌱 me encuentro cursando JavaScript y Diseño UX/UI
 - 👯 mi objetivo es colaborar en cualquier proyecto
 - 💬 me podes preguntar sobre HTML, CSS, BOOSTRAP..
 - 📫 contactame por ginosgt@gmail.com
