@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="">
   <h1>Hola 👋, soy Gino Gallardo</h1>
-  <h3>He culminado el curso de Desarrollo Web, JavaScript, React Js.
-    Estoy buscando mi primer empleó, y así dedicarme 100% al Desarrollo Web.
+  <h3>"Frontend Developer con pasión por crear interfaces web atractivas y funcionales. Especializado en HTML, CSS, JavaScript, y frameworks modernos, me enfoco en construir experiencias de usuario intuitivas y responsivas. Siempre buscando aprender y aplicar nuevas tecnologías para llevar la web al siguiente nivel."
   </h3>
 </div>
 
