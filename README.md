@@ -76,7 +76,7 @@ Permite trabajar con:
 ---
 
 ## 🚘 SITRAV
-### Sistema Inteligente de Tráfico Vehicular
+### Sistema Inteligente de Tránsito Vehicular
 
 Sistema de análisis de tránsito mediante **Inteligencia Artificial y visión por computadora**.
 
