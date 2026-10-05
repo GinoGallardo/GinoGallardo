@@ -116,7 +116,6 @@ El proyecto incorpora:
 - Información y estado de cámaras
 - Integración ONVIF
 - Streaming RTSP / WebRTC
-- Integración con Milestone XProtect
 - Reproducción y almacenamiento de video
 
 **Tecnologías**
