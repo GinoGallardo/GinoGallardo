@@ -186,7 +186,7 @@ Incluye:
 
 ---
 
-## ✝️ Ágape
+## ✝️ FeRun
 
 Proyecto de red social orientada inicialmente a comunidades cristianas.
 
