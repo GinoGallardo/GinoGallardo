@@ -93,7 +93,7 @@ Entre sus funcionalidades se encuentran:
 - Streaming de video
 - Procesamiento mediante GPU
 - Dashboards en tiempo real
-- Integración con cámaras Hikvision
+- Integración con cámaras de distintas marcas
 
 **Tecnologías**
 
